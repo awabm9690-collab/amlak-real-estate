@@ -1,0 +1,6 @@
+ 
+http://localhost/amlak
+
+admin    =  12345678
+MESHAL  =  11111111
+oboo     =  oboooboooboo
